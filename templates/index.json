@@ -183,6 +183,48 @@
         "padding_bottom": 36
       }
     },
+    "b0537475-2524-4439-835a-5b60b7b4850c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17059986211074__b0537475-2524-4439-835a-5b60b7b4850c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "SurvivalCon 2024",
+            "heading_size": "h1"
+          }
+        },
+        "template--17059986211074__b0537475-2524-4439-835a-5b60b7b4850c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As we embark on our inaugural event in the heart of Salt Lake City,  Utah, this June 2024, dive into a comprehensive experience curated to  educate, engage, and elevate your preparedness for any situation. From  expert-led workshops, hands-on demonstrations, to interactive exhibits, join a community passionate about fostering resilience and readiness in everyday life. Together, let's embrace preparedness, learning, and empowerment at SurvivalCon—a transformative event shaping your survival journey.<\/p>"
+          }
+        },
+        "template--17059986211074__b0537475-2524-4439-835a-5b60b7b4850c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17059986211074__b0537475-2524-4439-835a-5b60b7b4850c-heading-1",
+        "template--17059986211074__b0537475-2524-4439-835a-5b60b7b4850c-text-1",
+        "template--17059986211074__b0537475-2524-4439-835a-5b60b7b4850c-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "cbabeabd-46e7-4bde-b674-b7c4ca64ffac": {
       "type": "image-with-text",
       "blocks": {
@@ -235,6 +277,7 @@
     "00404309-0ae1-4d3b-bb60-fa6f4ada6baa",
     "74f977e4-f769-4132-9865-d3bee927a243",
     "31b03376-bbaa-4c43-948d-8858a8940309",
+    "b0537475-2524-4439-835a-5b60b7b4850c",
     "cbabeabd-46e7-4bde-b674-b7c4ca64ffac"
   ]
 }
