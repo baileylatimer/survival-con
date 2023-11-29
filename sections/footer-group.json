@@ -4,6 +4,18 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "eab8aed0-816f-4d0b-b43a-adcea749cd51": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "eab8aed0-816f-4d0b-b43a-adcea749cd51"
+      ],
       "custom_css": [
 
       ],
