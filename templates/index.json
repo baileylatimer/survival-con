@@ -45,7 +45,7 @@
             "image": "shopify:\/\/shop_images\/urban-wind-turbine.jpg",
             "heading": "Survival Con 2024",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Tickets on Sale Now",
             "button_label": "Click Here",
             "link": "",
             "button_style_secondary": false,
@@ -182,11 +182,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ecd1b961-3f93-4bf6-a6db-d8eaa2593610": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-heading-1",
+        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-text-1",
+        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-buttons-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "00404309-0ae1-4d3b-bb60-fa6f4ada6baa",
     "74f977e4-f769-4132-9865-d3bee927a243",
-    "31b03376-bbaa-4c43-948d-8858a8940309"
+    "31b03376-bbaa-4c43-948d-8858a8940309",
+    "ecd1b961-3f93-4bf6-a6db-d8eaa2593610"
   ]
 }
