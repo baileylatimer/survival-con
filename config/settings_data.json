@@ -1,7 +1,7 @@
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/Asset_3.png",
-    "logo_width": 60,
+    "logo_width": 50,
     "favicon": "shopify:\/\/shop_images\/S1.png",
     "type_header_font": "assistant_n7",
     "heading_scale": 100,
@@ -403,7 +403,7 @@
       "body {background: white !important;}",
       ".slideshow__text {color: white !important;}",
       ".banner__heading.inline-richtext.h1 {color: white;}",
-      ".header__menu-item {padding: 1.2rem; text-decoration: none; color: rgba(var(--color-foreground),.75); font-weight: 700;}"
+      ".header__menu-item {padding: 1.2rem; text-decoration: none; color: rgba(var(--color-foreground), 0.75); font-weight: 700;}"
     ]
   }
 }
