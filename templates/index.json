@@ -1,48 +1,83 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "00404309-0ae1-4d3b-bb60-fa6f4ada6baa": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--17059986211074__00404309-0ae1-4d3b-bb60-fa6f4ada6baa-slide-1": {
+          "type": "slide",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "image": "shopify:\/\/shop_images\/gas-fire-pit-at-night.jpg",
+            "heading": "Surivival Con 2024",
+            "heading_size": "h1",
+            "subheading": "Ticket on Sale Now",
+            "button_label": "Shop Here",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         },
-        "button": {
-          "type": "buttons",
+        "template--17059986211074__00404309-0ae1-4d3b-bb60-fa6f4ada6baa-slide-2": {
+          "type": "slide",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "image": "shopify:\/\/shop_images\/knife-coffee-compass.jpg",
+            "heading": "SurvivalCon 2024",
+            "heading_size": "h1",
+            "subheading": "Tickets on Sale Now",
+            "button_label": "Click Here",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "cb8500e6-6192-4cbc-a35f-f7dfe3fab17e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/urban-wind-turbine.jpg",
+            "heading": "Survival Con 2024",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "template--17059986211074__00404309-0ae1-4d3b-bb60-fa6f4ada6baa-slide-1",
+        "template--17059986211074__00404309-0ae1-4d3b-bb60-fa6f4ada6baa-slide-2",
+        "cb8500e6-6192-4cbc-a35f-f7dfe3fab17e"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bailey likes dudes",
+        "title": "Social Media",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -69,7 +104,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "00404309-0ae1-4d3b-bb60-fa6f4ada6baa",
     "featured_collection"
   ]
 }
