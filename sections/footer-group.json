@@ -5,7 +5,7 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "eab8aed0-816f-4d0b-b43a-adcea749cd51": {
+        "9b27a242-4723-4ef3-a1bd-f2981c6ded7d": {
           "type": "link_list",
           "settings": {
             "heading": "",
@@ -14,7 +14,7 @@
         }
       },
       "block_order": [
-        "eab8aed0-816f-4d0b-b43a-adcea749cd51"
+        "9b27a242-4723-4ef3-a1bd-f2981c6ded7d"
       ],
       "custom_css": [
 
