@@ -401,7 +401,8 @@
     "custom_css": [
       ".button.button--primary {background: white; opacity: 1; color: black;}",
       "body {background: white !important;}",
-      ".slideshow__text {color: white !important;}"
+      ".slideshow__text {color: white !important;}",
+      ".banner__heading.inline-richtext.h1 {color: white;}"
     ]
   }
 }
