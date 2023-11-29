@@ -400,7 +400,8 @@
   "platform_customizations": {
     "custom_css": [
       ".button.button--primary {background: white; opacity: 1; color: black;}",
-      "body {background: white !important;}"
+      "body {background: white !important;}",
+      ".slideshow__text {color: white !important;}"
     ]
   }
 }
