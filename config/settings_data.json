@@ -399,7 +399,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".button.button--primary {background: white; opacity: 1; color: black;}"
+      ".button.button--primary {background: white; opacity: 1; color: black;}",
+      "body {background: white !important;}"
     ]
   }
 }
