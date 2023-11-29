@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/gas-fire-pit-at-night.jpg",
-            "heading": "Surivival Con 2024",
+            "heading": "SurivivalCon 2024",
             "heading_size": "h1",
             "subheading": "Ticket on Sale Now",
             "button_label": "Click Here",
@@ -183,51 +183,51 @@
         "padding_bottom": 36
       }
     },
-    "ecd1b961-3f93-4bf6-a6db-d8eaa2593610": {
-      "type": "image-banner",
+    "cbabeabd-46e7-4bde-b674-b7c4ca64ffac": {
+      "type": "image-with-text",
       "blocks": {
-        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-heading-1": {
+        "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "About the Founder",
             "heading_size": "h1"
           }
         },
-        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-text-1": {
+        "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-text-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "<p>Just  some text until we can fill this section.<\/p>",
             "text_style": "body"
           }
         },
-        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-buttons-1": {
-          "type": "buttons",
+        "acea3862-7f29-4892-be1b-618e1e09185f": {
+          "type": "caption",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "caption": "Woooohooooo",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         }
       },
       "block_order": [
-        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-heading-1",
-        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-text-1",
-        "template--17059986211074__ecd1b961-3f93-4bf6-a6db-d8eaa2593610-buttons-1"
+        "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-heading-1",
+        "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-text-1",
+        "acea3862-7f29-4892-be1b-618e1e09185f"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/nature-photographer.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -235,6 +235,6 @@
     "00404309-0ae1-4d3b-bb60-fa6f4ada6baa",
     "74f977e4-f769-4132-9865-d3bee927a243",
     "31b03376-bbaa-4c43-948d-8858a8940309",
-    "ecd1b961-3f93-4bf6-a6db-d8eaa2593610"
+    "cbabeabd-46e7-4bde-b674-b7c4ca64ffac"
   ]
 }
