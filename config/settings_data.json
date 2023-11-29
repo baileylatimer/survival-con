@@ -1,7 +1,7 @@
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/Survival_Con_2024.png",
-    "logo_width": 120,
+    "logo_width": 70,
     "favicon": "shopify:\/\/shop_images\/S1.png",
     "type_header_font": "assistant_n7",
     "heading_scale": 100,
@@ -183,7 +183,7 @@
       },
       "accent-2": {
         "settings": {
-          "background": "#334fb4",
+          "background": "#b0b8d7",
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#ffffff",
