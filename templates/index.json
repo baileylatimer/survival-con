@@ -77,13 +77,6 @@
     "74f977e4-f769-4132-9865-d3bee927a243": {
       "type": "featured-product",
       "blocks": {
-        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-title-1": {
           "type": "title",
           "settings": {
@@ -121,7 +114,6 @@
         }
       },
       "block_order": [
-        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-text-1",
         "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-title-1",
         "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-price-1",
         "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-variant_picker-1",
@@ -130,7 +122,7 @@
         "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-share-1"
       ],
       "settings": {
-        "product": "",
+        "product": "survivalcon-2024-ticket",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
