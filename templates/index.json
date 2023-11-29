@@ -238,26 +238,17 @@
         "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Just  some text until we can fill this section.<\/p>",
+            "text": "<p>Meet Joshua Patel, the passionate founder behind SurvivalCon 2024, driven by an unwavering love for survival preparedness. With an indomitable spirit, Patel curates an immersive experience, dedicating himself to empowering individuals with life-saving skills at this groundbreaking event in Salt Lake City.<\/p>",
             "text_style": "body"
-          }
-        },
-        "acea3862-7f29-4892-be1b-618e1e09185f": {
-          "type": "caption",
-          "settings": {
-            "caption": "Woooohooooo",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
           }
         }
       },
       "block_order": [
         "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-heading-1",
-        "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-text-1",
-        "acea3862-7f29-4892-be1b-618e1e09185f"
+        "template--17059986211074__cbabeabd-46e7-4bde-b674-b7c4ca64ffac-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/nature-photographer.jpg",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-29_at_1.06.17_PM.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
