@@ -10,7 +10,7 @@
             "heading": "Surivival Con 2024",
             "heading_size": "h1",
             "subheading": "Ticket on Sale Now",
-            "button_label": "Shop Here",
+            "button_label": "Click Here",
             "link": "",
             "button_style_secondary": false,
             "box_align": "bottom-left",
@@ -46,7 +46,7 @@
             "heading": "Survival Con 2024",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "button_label": "Click Here",
             "link": "",
             "button_style_secondary": false,
             "box_align": "bottom-left",
@@ -74,37 +74,127 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "74f977e4-f769-4132-9865-d3bee927a243": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-text-1",
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-title-1",
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-price-1",
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-variant_picker-1",
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-quantity_selector-1",
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-buy_buttons-1",
+        "template--17059986211074__74f977e4-f769-4132-9865-d3bee927a243-share-1"
+      ],
       "settings": {
-        "title": "Social Media",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "31b03376-bbaa-4c43-948d-8858a8940309": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About SurvivalCon",
+            "heading_size": "h1"
+          }
+        },
+        "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SurvivalCon 2024 is a multi-day event happening in June 2024<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-heading-1",
+        "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-text-1",
+        "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/into-the-woods-we-go.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "00404309-0ae1-4d3b-bb60-fa6f4ada6baa",
-    "featured_collection"
+    "74f977e4-f769-4132-9865-d3bee927a243",
+    "31b03376-bbaa-4c43-948d-8858a8940309"
   ]
 }
