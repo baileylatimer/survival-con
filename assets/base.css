@@ -11,7 +11,7 @@
   opacity: 1;
   color: black;
 }
-#MainContent::after {
+/* #MainContent::after {
   background-image: url(https://cdn.shopify.com/s/files/1/0674/0629/9394/files/cartographer.png?v=1701374427);
   background-repeat: repeat;
   background-image: url(https://cdn.shopify.com/s/files/1/0674/0629/9394/files/cartographer.png?v=1701374427);
@@ -23,7 +23,7 @@
   top: -10rem;
   width: calc(100% + 20rem);
   opacity: .3;
-}
+} */
 
 .slideshow__text {
   color: white !important;
