@@ -30,7 +30,7 @@ body {
   font-family: Supply;
 }
 h1, h2, h3, h4, h5, .h0, .h1, .h2, .h3, .h4, .h5 {
-  font-family: Berringer Aged, sans-serif;
+  font-family: Berringer Aged, sans-serif !important;
 }
 
 .slideshow__text {
