@@ -25,6 +25,11 @@
   opacity: .3;
 } */
 
+
+body {
+  font-family: Supply;
+}
+
 .slideshow__text {
   color: white !important;
 }
