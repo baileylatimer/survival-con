@@ -143,6 +143,14 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "13294500520456044654": {
+        "type": "shopify:\/\/apps\/cheerlink-livechat-ai-chatbot\/blocks\/cheerlink-block\/fcbe9bc2-ae4e-429d-bf13-c29829814b54",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
