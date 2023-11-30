@@ -2985,9 +2985,8 @@ details-disclosure > details {
 }
 
 .gradient {
-  background: rgb(var(--color-background));
-  background: var(--gradient-background);
-  background-attachment: fixed;
+background-repeat: repeat;
+  background-image: url(https://cdn.shopify.com/s/files/1/0674/0629/9394/files/cartographer_2.png?v=1701375467);
 }
 
 @media screen and (forced-colors: active) {
