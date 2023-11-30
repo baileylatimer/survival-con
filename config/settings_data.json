@@ -122,9 +122,9 @@
     "checkout_header_image": "shopify:\/\/shop_images\/hendrik-cornelissen--qrcOR33ErA-unsplash.jpg",
     "checkout_logo_image": "shopify:\/\/shop_images\/Asset_4.png",
     "checkout_logo_size": "large",
-    "checkout_body_background_color": "#8c8f64",
+    "checkout_body_background_color": "#ffffff",
     "checkout_input_background_color_mode": "white",
-    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_sidebar_background_color": "#8c8f64",
     "checkout_heading_font": "Helvetica Neue",
     "sections": {
       "main-password-header": {
