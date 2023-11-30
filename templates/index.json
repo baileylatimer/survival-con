@@ -169,7 +169,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/into-the-woods-we-go.jpg",
-        "border": false,
+        "border": true,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
