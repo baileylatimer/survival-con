@@ -26,7 +26,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/close-up-of-a-compass.jpg",
             "heading": "<strong>SURVIVALCON<\/strong>",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "<strong>Do You Have What It Takes?<\/strong>",
             "button_label": "Click to Proceed",
             "link": "shopify:\/\/products\/survivalcon-2024-ticket",
@@ -44,7 +44,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/urban-wind-turbine.jpg",
             "heading": "<strong>SURVIVALCON<\/strong>",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "<strong>When The Grid Fails What Is Our Next Best Option?<\/strong>",
             "button_label": "Find Out Now",
             "link": "shopify:\/\/products\/survivalcon-2024-ticket",
