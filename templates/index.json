@@ -169,10 +169,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/into-the-woods-we-go.jpg",
-        "border": true,
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -256,10 +255,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screen_Shot_2023-11-29_at_1.06.17_PM.png",
-        "border": false,
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",

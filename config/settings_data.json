@@ -406,7 +406,11 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".button.button--primary {background: white; opacity: 1; color: black;}",
+      "body {background: white !important;}",
+      ".slideshow__text {color: white !important;}",
+      ".banner__heading.inline-richtext.h1 {color: white;}",
+      ".header__menu-item {padding: 1.2rem; text-decoration: none; color: rgba(var(--color-foreground), 0.75); font-weight: 700;}"
     ]
   }
 }
