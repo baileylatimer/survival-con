@@ -25,6 +25,11 @@
   opacity: .3;
 } */
 
+
+.border-top {
+  border-top: 2px solid black;
+}
+
 .slideshow__text {
   color: white !important;
 }
