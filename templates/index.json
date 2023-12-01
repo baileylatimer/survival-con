@@ -168,8 +168,8 @@
         "template--17059986211074__31b03376-bbaa-4c43-948d-8858a8940309-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Rectangle_1.png",
-        "border": true,
+        "image": "shopify:\/\/shop_images\/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg",
+        "border": false,
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
